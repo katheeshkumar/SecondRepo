@@ -10,7 +10,8 @@ namespace First_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First Line"); 
+            Console.WriteLine("First Line");
+            Console.WriteLine("Master");
         }
     }
 }
